@@ -373,7 +373,7 @@
 373	Wonderful World	Sam Cooke	1969
 374	Brown Eyed Handsome Man	Chuck Berry	1956
 375	Another Brick in the Wall Part 2	Pink Floyd	1979
-376	Fake Plastic Trees	Radiohead	1995
+376	Fake Plastic Trees	Radiohead	d1995
 377	Hit the Road Jack	Ray Charles	1961
 378	Pride (In the Name of Love)	U2	1984
 379	Radio Free Europe	R.E.M.	1983
