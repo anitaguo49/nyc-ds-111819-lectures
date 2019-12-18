@@ -1,0 +1,436 @@
+Rank,Movie,World_Wide_Sales,Domestic_Sales,Foriegn_Sales,Genre,Release_Year,IMBD_Rating,Rated,Year_Id
+2,"The Hobbit: The Battle of the Five Armies",956020000,255120000,700900000,"Adventure, Fantasy",2014,7.4,PG-13,2
+3,"Guardians of the Galaxy",772777000,333177000,439600000,"Action, Adventure, Comedy",2014,8,PG-13,3
+6,"X-Men: Days of Future Past",746046000,233922000,512124000,"Action, Adventure, Sci-Fi",2014,8,PG-13,6
+7,"Captain America: The Winter Soldier",714422000,259767000,454655000,"Action, Adventure, Sci-Fi",2014,7.7,PG-13,7
+8,"Dawn of the Planet of the Apes",710645000,208546000,502099000,"Action, Adventure, Drama",2014,7.6,PG-13,8
+9,"The Amazing Spider-Man 2",708982000,202854000,506128000,"Action, Adventure, Sci-Fi",2014,6.6,PG-13,9
+10,Interstellar,677464000,188020000,489444000,"Adventure, Drama, Sci-Fi",2014,8.6,PG-13,10
+11,"Big Hero 6",657828000,222528000,435300000,"Animation, Action, Adventure",2014,7.8,PG,11
+12,"How to Train Your Dragon 2",621538000,177003000,444535000,"Animation, Action, Adventure",2014,7.8,PG,12
+13,"American Sniper",547426000,350126000,197300000,"Action, Biography, Drama",2014,7.3,R,13
+14,Godzilla,524976000,200676000,324300000,"Action, Adventure, Sci-Fi",2014,6.4,PG-13,14
+17,"The Lego Movie",468061000,257761000,210300000,"Animation, Action, Adventure",2014,7.8,PG,17
+20,"Edge of Tomorrow",370541000,100206000,270335000,"Action, Sci-Fi",2014,7.9,PG-13,20
+21,"Gone Girl",369330000,167767000,201563000,"Drama, Mystery, Thriller",2014,8.1,R,21
+23,Noah,359200000,101200000,258000000,"Action, Adventure, Drama",2014,5.8,PG-13,23
+36,"The Imitation Game",233556000,91125700,142430000,"Biography, Drama, Thriller",2014,8,PG-13,36
+41,Fury,211818000,85817900,126000000,"Action, Drama, War",2014,7.6,R,41
+44,"The Equalizer",192331000,101531000,90800000,"Action, Crime, Thriller",2014,7.2,R,44
+46,"The Grand Budapest Hotel",172937000,59301300,113636000,"Adventure, Comedy, Crime",2014,8.1,R,46
+49,Unbroken,161459000,115638000,45821400,"Biography, Drama, Sport",0,7.2,PG-13,49
+50,"The Monuments Men",154984000,78031600,76952400,"Comedy, Drama, History",2014,6.1,PG-13,50
+59,"The Theory of Everything",123727000,35893500,87833200,"Biography, Drama, Romance",2014,7.7,PG-13,59
+65,"The Boxtrolls",108256000,50837300,57418500,"Animation, Adventure, Comedy",2014,6.8,PG,65
+69,"Birdman or (The Unexpected Virtue of Ignorance)",103215000,42340600,60874500,"Comedy, Drama",2014,7.7,R,69
+70,Transcendence,103039000,23022300,80017000,"Drama, Sci-Fi, Thriller",0,6.3,PG-13,70
+83,"John Wick",86013100,43037800,42975200,"Action, Crime, Thriller",2014,7.4,R,83
+84,"The Judge",84419400,47119400,37300000,"Crime, Drama",2014,7.4,R,84
+92,"Jersey Boys",67647000,47047000,20600000,"Biography, Drama, Music",2014,6.8,R,92
+94,Selma,66787900,52076900,14711000,"Biography, Drama, History",0,7.5,PG-13,94
+104,Wild,52501500,37880400,14621200,"Biography, Drama",0,7.1,R,104
+107,Whiplash,48982000,13092000,35890000,"Drama, Music",2014,8.5,R,107
+112,Boyhood,44495300,25352300,19143000,Drama,0,7.9,R,112
+119,"The Gambler",39281000,33681000,5600000,"Crime, Drama, Thriller",0,6,R,119
+122,Nightcrawler,38697200,32381200,6316000,"Crime, Drama, Thriller",2014,7.9,R,122
+127,"A Most Wanted Man",36233500,17237900,18995700,"Crime, Drama, Thriller",2014,6.8,R,127
+139,"Big Eyes",29253200,14482000,14771100,"Biography, Crime, Drama",0,7,PG-13,139
+147,"Mr. Turner",22179800,3958500,18221300,"Biography, Drama, History",2014,6.8,R,147
+153,Foxcatcher,19206500,12096300,7110210,"Biography, Drama, Sport",2014,7,R,153
+161,Calvary,16887700,3600010,13287700,"Drama, Western",2014,7.4,R,161
+167,"Inherent Vice",14711000,8110980,6600000,"Comedy, Crime, Drama",2014,6.7,R,167
+173,Mommy,13156900,3494070,9662790,Drama,0,8.1,R,173
+175,"A Most Violent Year",12007100,5749130,6257940,"Action, Crime, Drama",2014,7,R,175
+190,Timbuktu,7179390,1076080,6103320,"Drama, War",2014,7.1,PG-13,190
+193,"Two Days, One Night",6863240,1436240,5427000,Drama,2014,7.3,PG-13,193
+195,"The Raid 2",6566920,2627210,3939710,"Action, Crime, Thriller",2014,8,R,195
+204,"Pawn Sacrifice",5578520,2436630,3141890,"Biography, Drama, Sport",2014,7,PG-13,204
+210,"Kill the Messenger",5218970,2450850,2768130,"Biography, Crime, Drama",2014,6.9,R,210
+219,Trash,4809020,17484,4791540,"Adventure, Crime, Drama",0,7.2,R,219
+226,Leviathan,4439480,1092800,3346680,"Crime, Drama",2014,7.6,R,226
+230,"Force Majeure",4094340,1359500,2734840,"Comedy, Drama",2014,7.3,R,230
+233,"The Homesman",3819420,2429990,1389430,"Drama, Western",2014,6.6,R,233
+234,"Escobar: Paradise Lost",3758330,195792,3562540,"Crime, Drama, History",2014,6.5,R,234
+253,Citizenfour,3003170,2800870,202299,"Documentary, Biography, News",2014,8.1,R,253
+280,Frank,1897360,645186,1252180,"Comedy, Drama, Music",0,7,R,280
+288,'71,1625850,1270850,355000,"Action, Crime, Drama",2014,7.2,R,288
+293,"Fed Up",1546230,1538900,7330,Documentary,2014,7.7,PG,293
+356,"The One I Love",596933,513447,83486,"Drama, Fantasy, Mystery",2014,7.1,R,356
+363,"A Girl Walks Home Alone at Night",546352,491910,54442,"Drama, Horror",2014,7,"Not Rated",363
+381,"God's Pocket",403713,169976,233737,"Crime, Drama",2014,6.1,R,381
+411,Lilting,247377,27054,220323,"Drama, Romance",2014,7.2,"Not Rated",411
+459,"Rich Hill",111376,111376,NULL,"Documentary, Biography, Drama",2014,7.2,"Not Rated",459
+509,Hellion,55708,55708,NULL,"Drama, Thriller",2014,6.1,R,509
+1,"Star Wars: Episode VII - The Force Awakens",2068220000,936662000,1131560000,"Action, Adventure, Sci-Fi",2015,7.9,PG-13,1
+2,"Jurassic World",1670400000,652271000,1018130000,"Action, Adventure, Sci-Fi",2015,7,PG-13,2
+3,"Furious 7",1515050000,353007000,1162040000,"Action, Adventure, Thriller",2015,7.2,PG-13,3
+4,"Avengers: Age of Ultron",1402810000,459006000,943800000,"Action, Adventure, Sci-Fi",2015,7.3,PG-13,4
+5,Minions,1159400000,336046000,823353000,"Animation, Adventure, Comedy",2015,6.4,PG,5
+6,Spectre,880675000,200075000,680600000,"Action, Adventure, Thriller",0,6.8,PG-13,6
+8,"Inside Out",857611000,356462000,501149000,"Animation, Adventure, Comedy",0,8.2,PG,8
+9,"Mission: Impossible - Rogue Nation",682714000,195042000,487672000,"Action, Adventure, Thriller",2015,7.4,PG-13,9
+10,"The Hunger Games: Mockingjay - Part 2",653428000,281724000,371704000,"Action, Adventure, Sci-Fi",2015,6.5,PG-13,10
+11,"The Martian",630162000,228434000,401728000,"Adventure, Drama, Sci-Fi",2015,8,PG-13,11
+12,"Fifty Shades of Grey",569651000,166167000,403484000,"Drama, Romance, Thriller",2015,4.1,R,12
+13,Cinderella,542351000,201151000,341200000,"Drama, Family, Fantasy",0,6.9,PG,13
+14,"The Revenant",532950000,183638000,349313000,"Action, Adventure, Biography",2015,8,R,14
+15,Ant-Man,519312000,180202000,339110000,"Action, Adventure, Comedy",2015,7.3,PG-13,15
+17,"San Andreas",473991000,155191000,318800000,"Action, Adventure, Drama",2015,6,PG-13,17
+18,"Terminator Genisys",440604000,89761000,350843000,"Action, Adventure, Sci-Fi",2015,6.4,PG-13,18
+19,"Kingsman: The Secret Service",414352000,128262000,286090000,"Action, Adventure, Comedy",2014,7.7,R,19
+20,Home,386042000,177398000,208644000,"Animation, Adventure, Comedy",0,6.6,PG,20
+22,"Mad Max: Fury Road",374736000,153636000,221100000,"Action, Adventure, Sci-Fi",2015,8.1,R,22
+23,"The Good Dinosaur",332208000,123087000,209121000,"Animation, Adventure, Comedy",2015,6.7,PG,23
+26,"Maze Runner: The Scorch Trials",312296000,81697200,230599000,"Action, Adventure, Sci-Fi",2015,6.3,PG-13,26
+27,Insurgent,297003000,130179000,166823000,"Action, Adventure, Sci-Fi",2015,6.2,PG-13,27
+28,"Pitch Perfect 2",287144000,184296000,102848000,"Comedy, Music",2015,6.4,PG-13,28
+31,"The Peanuts Movie",246233000,130178000,116055000,"Animation, Adventure, Comedy",2015,7.1,G,31
+32,Pixels,244875000,78747600,166127000,"Action, Comedy, Sci-Fi",2015,5.6,PG-13,32
+33,"Daddy's Home",242786000,150357000,92429000,"Comedy, Family",2015,6.2,PG-13,33
+34,Spy,235666000,110826000,124841000,"Action, Comedy, Crime",2015,7,R,34
+37,"Ted 2",215864000,81476400,134387000,Comedy,2015,6.3,R,37
+38,Tomorrowland,209036000,93436300,115599000,"Action, Adventure, Family",2015,6.4,PG,38
+39,Everest,203428000,43482300,159945000,"Action, Adventure, Biography",2015,7.1,PG-13,39
+40,"Straight Outta Compton",201635000,161198000,40437200,"Biography, Drama, History",2015,7.9,R,40
+41,"The Intern",194565000,75764700,118800000,"Comedy, Drama",0,7.1,PG-13,41
+42,"Jupiter Ascending",183888000,47387700,136500000,"Action, Adventure, Sci-Fi",2015,5.3,PG-13,42
+43,Creed,173568000,109768000,63800000,"Drama, Sport",0,7.6,PG-13,43
+44,"Fantastic Four",167883000,56117500,111765000,"Action, Adventure, Drama",2015,4.3,PG-13,44
+45,"Bridge of Spies",165478000,72313800,93164600,"Drama, History, Thriller",2015,7.6,PG-13,45
+46,Focus,158763000,53863000,104900000,"Comedy, Crime, Drama",0,6.6,R,46
+49,"The Hateful Eight",155760000,54117400,101643000,"Crime, Drama, Mystery",2015,7.8,R,49
+52,Trainwreck,140796000,110213000,30583100,"Comedy, Drama, Romance",2015,6.2,R,52
+55,"The Big Short",133441000,70259900,63181000,"Biography, Comedy, Drama",2015,7.8,R,55
+61,"Magic Mike XXL",117813000,66013100,51800000,"Comedy, Drama, Music",2015,5.6,R,61
+62,"Insidious: Chapter 3",112984000,52218600,60765300,"Horror, Mystery, Thriller",2015,6.1,PG-13,62
+63,"Get Hard",111711000,90411500,21300000,"Comedy, Crime",2015,6,R,63
+66,"The Man from U.N.C.L.E.",107045000,45445100,61600000,"Action, Adventure, Comedy",2015,7.3,PG-13,66
+68,Sisters,105011000,87044600,17966400,Comedy,0,6,R,68
+70,Chappie,102069000,31569300,70500000,"Action, Crime, Drama",2015,6.8,R,70
+71,Joy,101134000,56451200,44682800,Drama,0,6.6,PG-13,71
+72,"Black Mass",99775700,62575700,37200000,"Biography, Crime, Drama",2015,6.9,R,72
+74,"The Visit",98450100,65206100,33244000,"Horror, Mystery, Thriller",0,6.2,PG-13,74
+75,Spotlight,98275200,45055800,53219500,"Biography, Crime, Drama",0,8.1,R,75
+78,Poltergeist,95438000,47425100,48012900,"Horror, Thriller",2015,4.9,PG-13,78
+80,"In the Heart of the Sea",93920800,25020800,68900000,"Action, Adventure, Biography",2015,6.9,PG-13,80
+82,Southpaw,91970800,52422000,39548900,"Drama, Sport",2015,7.4,R,82
+85,Sicario,84872400,46889300,37983200,"Action, Crime, Drama",2015,7.6,R,85
+87,"The Wedding Ringer",79799900,64460200,15339700,Comedy,2015,6.6,R,87
+88,"Paranormal Activity: The Ghost Dimension",78903100,18300100,60603000,"Horror, Mystery, Thriller",2015,4.6,R,88
+91,"The Transporter Refueled",72629700,16029700,56600000,"Action, Thriller",2015,5.2,PG-13,91
+97,"The Danish Girl",64191500,11114000,53077500,"Biography, Drama, Romance",2015,7.1,R,97
+100,Unfriended,62882100,32482100,30400000,"Horror, Mystery, Thriller",2014,5.5,R,100
+101,Brooklyn,62076100,38322700,23753400,"Drama, Romance",2015,7.5,PG-13,101
+104,Krampus,61548700,42725500,18823200,"Comedy, Drama, Fantasy",0,6.1,PG-13,104
+108,"The Gift",58978700,43787300,15191400,"Drama, Mystery, Thriller",0,7,R,108
+110,"Sinister 2",52882000,27741000,25141100,"Horror, Mystery, Thriller",2015,5.3,R,110
+113,"The Night Before",52396000,43047400,9348620,"Comedy, Fantasy",0,6.4,R,113
+120,Concussion,48623600,34542500,14081100,"Biography, Drama, Sport",2015,7.1,PG-13,120
+124,"McFarland, USA",45710100,44482400,1227650,"Biography, Drama, Sport",2015,7.4,PG,124
+130,"The Gallows",42964400,22764400,20200000,"Horror, Mystery, Thriller",2015,4.2,R,130
+138,"The Lazarus Effect",38356900,25801600,12555300,"Horror, Mystery, Sci-Fi",2015,5.2,PG-13,138
+140,"Ex Machina",36869400,25443000,11426500,"Drama, Mystery, Sci-Fi",2014,7.7,R,140
+143,Room,35401800,14677700,20724100,"Drama, Thriller",0,8.1,R,143
+146,"Steve Jobs",34441900,17766700,16675200,"Biography, Drama",2015,7.2,R,146
+149,"Project Almanac",33213200,22348200,10865000,"Drama, Mystery, Sci-Fi",2015,6.4,PG-13,149
+157,"Love & Mercy",28641800,12551000,16090700,"Biography, Drama, Music",2014,7.4,PG-13,157
+160,"American Ultra",27139500,14441000,12698500,"Action, Comedy, Sci-Fi",2015,6.1,R,160
+161,Aloha,26250000,21067100,5182900,"Comedy, Drama, Romance",0,5.4,PG-13,161
+176,"It Follows",21528600,14674100,6854520,"Horror, Mystery, Thriller",2014,6.8,R,176
+181,Dope,17986800,17506500,480311,"Comedy, Crime, Drama",2015,7.2,R,181
+217,"Danny Collins",10835800,5637070,5198690,"Biography, Comedy, Drama",2015,7,R,217
+220,"Me and Earl and the Dying Girl",9074750,6758420,2316330,"Comedy, Drama, Romance",2015,7.7,PG-13,220
+226,Trumbo,8235660,7857740,377920,"Biography, Drama",2015,7.5,R,226
+259,"True Story",5261600,4719700,541900,"Crime, Drama, Mystery",0,6.3,R,259
+294,"The End of the Tour",3072990,3002880,70107,"Biography, Drama",2015,7.3,R,294
+299,Captive,2801510,2583300,218207,"Action, Crime, Drama",0,5.4,PG-13,299
+300,"He Named Me Malala",2766000,2668940,97068,Documentary,2015,6.9,PG-13,300
+310,"Goodnight Mommy",2193470,1178200,1015280,"Horror, Mystery, Thriller",2014,6.7,R,310
+372,Tangerine,814868,702354,112514,"Comedy, Crime, Drama",2015,7.1,R,372
+1,"Captain America: Civil War",1153300000,408084000,745212000,"Action, Adventure, Sci-Fi",2016,7.8,PG-13,1
+2,"Rogue One: A Star Wars Story",1056060000,532177000,523880000,"Action, Adventure, Sci-Fi",2016,7.8,PG-13,2
+3,"Finding Dory",1028570000,486296000,542275000,"Animation, Adventure, Comedy",2016,7.3,PG,3
+4,Zootopia,1023780000,341268000,682516000,"Animation, Adventure, Comedy",2016,8,PG,4
+5,"The Jungle Book",966551000,364001000,602550000,"Adventure, Drama, Family",2016,7.4,PG,5
+6,"The Secret Life of Pets",875458000,368384000,507074000,"Animation, Adventure, Comedy",2016,6.5,PG,6
+7,"Fantastic Beasts and Where to Find Them",814038000,234038000,580000000,"Adventure, Family, Fantasy",2016,7.3,PG-13,7
+8,Deadpool,782612000,363071000,419541000,"Action, Adventure, Comedy",2016,8,R,8
+9,"Suicide Squad",746847000,325100000,421747000,"Action, Adventure, Fantasy",2016,6,PG-13,9
+10,"Doctor Strange",677718000,232642000,445076000,"Action, Adventure, Fantasy",2016,7.5,PG-13,10
+11,Moana,643331000,248757000,394574000,"Animation, Adventure, Comedy",0,7.6,PG,11
+14,"X-Men: Apocalypse",543934000,155442000,388492000,"Action, Adventure, Sci-Fi",2016,6.9,PG-13,14
+15,"Kung Fu Panda 3",521171000,143529000,377642000,"Animation, Action, Adventure",2016,7.1,PG,15
+17,Warcraft,439049000,47365300,391684000,"Action, Adventure, Fantasy",2016,6.8,PG-13,17
+18,"Jason Bourne",415485000,162434000,253050000,"Action, Thriller",0,6.6,PG-13,18
+19,"Ice Age: Collision Course",408579000,64063000,344516000,"Animation, Adventure, Comedy",2016,5.7,PG,19
+20,"Independence Day: Resurgence",389682000,103144000,286538000,"Action, Adventure, Sci-Fi",2016,5.2,PG-13,20
+22,"The Legend of Tarzan",356700000,126643000,230057000,"Action, Adventure, Drama",2016,6.2,PG-13,22
+24,Trolls,346864000,153707000,193157000,"Animation, Adventure, Comedy",2016,6.5,PG,24
+25,"Star Trek Beyond",343472000,158848000,184623000,"Action, Adventure, Sci-Fi",2016,7.1,PG-13,25
+26,"The Great Wall",334934000,45540800,289393000,"Action, Adventure, Fantasy",0,5.9,PG-13,26
+27,"Now You See Me 2",334898000,65075500,269822000,"Action, Adventure, Comedy",2016,6.5,PG-13,27
+28,"The Conjuring 2",320393000,102470000,217923000,"Horror, Mystery, Thriller",2016,7.3,R,28
+29,"Resident Evil: The Final Chapter",312243000,26830100,285413000,"Action, Horror, Sci-Fi",2016,5.5,R,29
+30,Passengers,303144000,100015000,203129000,"Drama, Romance, Sci-Fi",0,7,PG-13,30
+32,"Alice Through the Looking Glass",299457000,77041400,222416000,"Adventure, Family, Fantasy",2016,6.2,PG,32
+33,"Miss Peregrine's Home for Peculiar Children",296482000,87242800,209240000,"Adventure, Drama, Fantasy",2016,6.7,PG-13,33
+34,"Teenage Mutant Ninja Turtles: Out of the Shadows",245624000,82051600,163572000,"Action, Adventure, Comedy",2016,6,PG-13,34
+36,"Assassin's Creed",240698000,54647900,186050000,"Action, Adventure, Sci-Fi",2016,5.7,PG-13,36
+38,Ghostbusters,229148000,128351000,100797000,"Action, Comedy, Fantasy",2016,5.2,PG-13,38
+39,Inferno,220021000,34343600,185678000,"Action, Crime, Drama",0,6.2,PG-13,39
+40,"Central Intelligence",216973000,127441000,89531700,"Action, Comedy, Crime",2016,6.3,PG-13,40
+43,"London Has Fallen",205754000,62524300,143230000,"Action, Thriller",2016,5.9,R,43
+44,Arrival,203388000,100546000,102842000,"Drama, Mystery, Sci-Fi",0,7.9,PG-13,44
+46,"Bad Moms",183936000,113257000,70678800,Comedy,2016,6.2,R,46
+48,"The BFG",183289000,55483800,127805000,"Adventure, Family, Fantasy",2016,6.4,PG,48
+49,Allegiant,179247000,66184100,113063000,"Action, Adventure, Mystery",2016,5.7,PG-13,49
+53,"The Huntsman: Winter's War",164989000,48390200,116599000,"Action, Adventure, Drama",2016,6.1,PG-13,53
+54,"The Magnificent Seven",162361000,93432700,68928000,"Action, Adventure, Western",2016,6.9,PG-13,54
+55,"Jack Reacher: Never Go Back",162146000,58697100,103449000,"Action, Thriller",2016,6.1,PG-13,55
+57,"The Accountant",155160000,86260000,68900000,"Action, Crime, Drama",2016,7.3,R,57
+58,"Lights Out",148869000,67268800,81600000,"Drama, Horror, Mystery",0,6.3,PG-13,58
+59,"Pete's Dragon",143695000,76233200,67462200,"Action, Adventure, Comedy",2016,6.7,PG,59
+60,"Sausage Party",140705000,97685700,43019600,"Animation, Adventure, Comedy",2016,6.2,R,60
+63,"Deepwater Horizon",121790000,61433500,60356800,"Action, Drama, History",2016,7.1,PG-13,63
+66,"The Shallows",119101000,55124000,63976700,"Drama, Horror, Thriller",2016,6.3,PG-13,66
+67,"The Purge: Election Year",118588000,79213400,39374500,"Action, Horror, Sci-Fi",2016,6,R,67
+71,"How to Be Single",112344000,46843500,65500000,"Comedy, Drama, Romance",2016,6.1,R,71
+72,"10 Cloverfield Lane",110217000,72083000,38134000,"Drama, Horror, Mystery",2016,7.2,PG-13,72
+73,"Neighbors 2: Sorority Rising",108007000,55455800,52551300,Comedy,2016,5.7,R,73
+77,"Dirty Grandpa",94073000,35593100,58479900,Comedy,2016,5.9,R,77
+84,"War Dogs",86234500,43034500,43200000,"Biography, Comedy, Crime",2016,7.1,R,84
+88,"Underworld: Blood Wars",81093300,30354000,50739300,"Action, Adventure, Drama",2016,5.8,R,88
+90,"The Boss",78844600,63285900,15558700,Comedy,2016,5.4,R,90
+92,"Mike and Dave Need Wedding Dates",77068200,46009700,31058600,"Comedy, Romance",2016,6,R,92
+101,"Hail, Caesar!",63647700,30498100,33149600,"Comedy, Drama, Music",2016,6.3,PG-13,101
+102,"The Nice Guys",62788200,36261800,26526500,"Action, Comedy, Crime",2016,7.4,R,102
+106,"Zoolander 2",56722700,28848700,27874000,"Action, Comedy",2016,4.7,PG-13,106
+107,"Barbershop: The Next Cut",55030100,54030100,1000000,"Comedy, Drama",2016,5.9,PG-13,107
+110,"The Finest Hours",52099100,27569600,24529500,"Drama, History, Thriller",2016,6.7,PG-13,110
+119,"A Monster Calls",47309300,3740820,43568500,"Animation, Drama, Fantasy",2016,7.5,PG-13,119
+132,"The Forest",37608300,26594300,11014000,"Horror, Mystery, Thriller",0,4.8,PG-13,132
+133,Snowden,37279400,21587500,15691900,"Biography, Crime, Drama",2016,7.3,R,133
+141,Masterminds,29674700,17368000,12306700,"Comedy, Crime",0,5.8,PG-13,141
+148,"The Brothers Grimsby",25182900,6874840,18308100,"Action, Adventure, Comedy",2016,6.2,R,148
+152,"Whiskey Tango Foxtrot",24972100,23083300,1888800,"Biography, Comedy, Drama",2016,6.6,R,152
+154,"God's Not Dead 2",24487800,20774600,3713270,Drama,2016,4.3,PG,154
+160,"Kevin Hart: What Now?",23591000,23591000,NULL,"Documentary, Comedy",2016,5.9,R,160
+164,"Triple 9",23119400,12639300,10480100,"Crime, Thriller",2016,6.3,R,164
+169,"Live by Night",22678600,10378600,12300000,"Action, Crime, Drama",2016,6.4,R,169
+172,"The Infiltrator",21011100,15436800,5574300,"Biography, Crime, Drama",2016,7,R,172
+173,Keanu,20651300,20591900,59480,"Action, Comedy, Crime",2016,6.3,R,173
+182,"Pride and Prejudice and Zombies",16405200,10938100,5467040,"Action, Comedy, Fantasy",2016,5.8,PG-13,182
+191,"The Other Side of the Door",14332500,3000340,11332100,Horror,2016,5.3,R,191
+205,"Friend Request",10975400,3759080,7216310,"Horror, Mystery, Thriller",2016,5.3,R,205
+219,Morgan,8809410,3915250,4894160,"Action, Horror, Sci-Fi",2016,5.8,R,219
+244,"Midnight Special",6212280,3712280,2500000,"Drama, Mystery, Sci-Fi",2016,6.6,PG-13,244
+263,"Swiss Army Man",4935500,4210450,725047,"Comedy, Drama, Fantasy",2016,7,R,263
+267,"Everybody Wants Some!!",4644470,3400280,1244190,Comedy,2016,6.9,R,267
+289,"The Neon Demon",3377430,1333120,2044310,"Horror, Thriller",2016,6.2,R,289
+352,Cell,1133030,NULL,1133030,"Action, Drama, Horror",0,4.3,R,352
+382,"Mr. Right",607595,34694,572901,"Action, Comedy, Romance",0,6.3,R,382
+602,"Kill Command",25427,NULL,25427,"Action, Horror, Sci-Fi",2016,5.7,"Not Rated",602
+1,"Star Wars: Episode VIII - The Last Jedi",1332540000,620181000,712359000,"Action, Adventure, Fantasy",2017,7.1,PG-13,1
+2,"Beauty and the Beast",1263520000,504014000,759507000,"Family, Fantasy, Musical",2017,7.2,PG,2
+3,"The Fate of the Furious",1236010000,226008000,1010000000,"Action, Adventure, Thriller",2017,6.7,PG-13,3
+4,"Despicable Me 3",1034800000,264624000,770175000,"Animation, Adventure, Comedy",2017,6.3,PG,4
+5,"Jumanji: Welcome to the Jungle",962078000,404515000,557562000,"Action, Adventure, Comedy",2017,6.9,PG-13,5
+6,"Spider-Man: Homecoming",880167000,334201000,545966000,"Action, Adventure, Sci-Fi",2017,7.4,PG-13,6
+8,"Guardians of the Galaxy Vol. 2",863756000,389813000,473943000,"Action, Adventure, Comedy",2017,7.6,PG-13,8
+9,"Thor: Ragnarok",853977000,315058000,538919000,"Action, Adventure, Comedy",2017,7.9,PG-13,9
+10,"Wonder Woman",821847000,412563000,409284000,"Action, Adventure, Fantasy",2017,7.4,PG-13,10
+11,Coco,807082000,209726000,597356000,"Animation, Adventure, Family",0,8.4,PG,11
+12,"Pirates of the Caribbean: Dead Men Tell No Tales",794862000,172559000,622303000,"Action, Adventure, Fantasy",2017,6.6,PG-13,12
+13,It,700382000,327482000,372900000,Horror,0,7.3,R,13
+14,"Justice League",657924000,229024000,428900000,"Action, Adventure, Fantasy",2017,6.4,PG-13,14
+15,Logan,619021000,226277000,392744000,"Action, Drama, Sci-Fi",2017,8.1,R,15
+16,"Transformers: The Last Knight",605425000,130169000,475256000,"Action, Adventure, Sci-Fi",2017,5.2,PG-13,16
+17,"Kong: Skull Island",566653000,168053000,398600000,"Action, Adventure, Fantasy",2017,6.6,PG-13,17
+18,"The Boss Baby",527966000,175003000,352963000,"Animation, Adventure, Comedy",2017,6.3,PG,18
+19,Dunkirk,525246000,188046000,337200000,"Action, Drama, History",2017,7.9,PG-13,19
+20,"War for the Planet of the Apes",490720000,146880000,343840000,"Action, Adventure, Drama",2017,7.4,PG-13,20
+22,"Kingsman: The Golden Circle",410903000,100235000,310668000,"Action, Adventure, Comedy",2017,6.7,R,22
+23,"The Mummy",409232000,80227900,329004000,"Action, Adventure, Fantasy",2017,5.4,PG-13,23
+25,"Fifty Shades Darker",381546000,114581000,266965000,"Drama, Romance",2017,4.6,R,25
+27,"xXx: Return of Xander Cage",346118000,44898400,301220000,"Action, Adventure, Thriller",2017,5.2,PG-13,27
+28,"The Lego Batman Movie",311950000,175750000,136200000,"Animation, Action, Comedy",2017,7.3,PG,28
+30,"Annabelle: Creation",306516000,102092000,204424000,"Horror, Mystery, Thriller",2017,6.5,R,30
+32,Ferdinand,296069000,84410400,211659000,"Animation, Adventure, Comedy",2017,6.7,PG,32
+34,"Blade Runner 2049",259240000,92054200,167186000,"Action, Drama, Mystery",2017,8,R,34
+35,"Get Out",255408000,176041000,79367300,"Horror, Mystery, Thriller",0,7.7,R,35
+39,"Alien: Covenant",240892000,74262000,166630000,"Horror, Sci-Fi, Thriller",2017,6.4,R,39
+40,"Paddington 2",227332000,40891600,186440000,"Adventure, Comedy, Family",2017,7.8,PG,40
+42,"Baby Driver",226945000,107826000,119119000,"Action, Crime, Drama",2017,7.6,R,42
+43,"Valerian and the City of a Thousand Planets",225874000,41189500,184685000,"Action, Adventure, Fantasy",2017,6.5,PG-13,43
+44,Geostorm,221600000,33700200,187900000,"Action, Sci-Fi, Thriller",2017,5.3,PG-13,44
+45,"The Emoji Movie",217777000,86089500,131687000,"Animation, Adventure, Comedy",2017,3.2,PG,45
+47,"Smurfs: The Lost Village",197184000,45020300,152163000,"Animation, Adventure, Comedy",2017,6,PG,47
+49,"Pitch Perfect 3",185400000,104898000,80502800,"Comedy, Music",2017,5.8,PG-13,49
+50,"Daddy's Home 2",180613000,104029000,76583700,Comedy,2017,6,PG-13,50
+52,Baywatch,177857000,58060200,119797000,"Action, Comedy, Crime",2017,5.5,R,52
+53,"The Hitman's Bodyguard",176587000,75468600,101118000,"Action, Comedy, Thriller",2017,6.9,R,53
+54,"John Wick: Chapter 2",171540000,92029200,79510700,"Action, Crime, Thriller",2017,7.5,R,54
+55,"Ghost in the Shell",169802000,40563600,129238000,"Action, Drama, Sci-Fi",2017,6.3,PG-13,55
+59,"King Arthur: Legend of the Sword",148675000,39175100,109500000,"Action, Adventure, Drama",2017,6.7,PG-13,59
+60,"The Foreigner",145374000,34393500,110981000,"Action, Thriller",0,7,R,60
+61,"Power Rangers",142337000,85364400,56972800,"Action, Adventure, Sci-Fi",2017,5.9,PG-13,61
+62,"Girls Trip",140552000,115172000,25380800,"Adventure, Comedy, Drama",2017,6.2,R,62
+63,"American Made",134867000,51342000,83524600,"Action, Biography, Comedy",2017,7.1,R,63
+64,"A Bad Moms Christmas",130560000,72110700,58449800,Comedy,2017,5.6,R,64
+65,"Happy Death Day",125479000,55683800,69795400,"Horror, Mystery, Thriller",2017,6.5,PG-13,65
+67,"The Lego Ninjago Movie",123082000,59281600,63800000,"Animation, Action, Adventure",2017,6,PG,67
+70,"The Dark Tower",113231000,50701300,62529800,"Action, Adventure, Fantasy",2017,5.6,PG-13,70
+73,Jigsaw,102953000,38052800,64900100,"Horror, Mystery, Thriller",0,5.8,R,73
+74,Life,100542000,30234000,70307800,"Horror, Sci-Fi, Thriller",0,6.6,R,74
+75,"Atomic Blonde",100014000,51687900,48326200,"Action, Mystery, Thriller",2017,6.7,R,75
+79,"Going in Style",84918500,45018500,39900000,"Comedy, Crime",2017,6.6,PG-13,79
+80,Rings,83080900,27793000,55287900,"Drama, Horror, Mystery",2017,4.5,PG-13,80
+84,"American Assassin",67234200,36249700,30984500,"Action, Thriller",2017,6.2,R,84
+86,"The Nut Job 2: Nutty by Nature",65146000,28370500,36775500,"Animation, Adventure, Comedy",2017,5.4,PG,86
+87,"The Mountain Between Us",62832200,30348600,32483700,"Action, Adventure, Drama",2017,6.4,PG-13,87
+89,"47 Meters Down",62187500,44307200,17880300,"Adventure, Drama, Horror",2017,5.6,PG-13,89
+92,Snatched,60845700,45852200,14993500,"Action, Adventure, Comedy",2017,4.5,R,92
+94,"Molly's Game",59284000,28780700,30503300,"Biography, Crime, Drama",2017,7.4,R,94
+98,"All the Money in the World",56996300,25113700,31882600,"Biography, Crime, Drama",2017,6.8,R,98
+101,"All Eyez on Me",55668700,44922300,10746400,"Biography, Drama, Music",2017,5.8,R,101
+103,"I, Tonya",53939300,30014500,23924800,"Biography, Comedy, Drama",2017,7.5,R,103
+104,"Logan Lucky",48453600,27781000,20672600,"Comedy, Crime, Drama",2017,7,PG-13,104
+107,"Rough Night",47347300,22105600,25241600,"Comedy, Crime, Thriller",2017,5.2,R,107
+111,Flatliners,45158300,16883100,28275100,"Drama, Horror, Mystery",2017,5.2,PG-13,111
+112,Mother!,44517000,17800000,26717000,"Drama, Horror, Mystery",2017,6.6,R,112
+113,"Wind River",43980800,33800900,10180000,"Crime, Drama, Mystery",2017,7.7,R,113
+115,"The Snowman",43084100,6700040,36384000,"Crime, Drama, Mystery",2017,5.1,R,115
+121,"Fist Fight",41087000,32187000,8900000,Comedy,2017,5.6,R,121
+122,"The Circle",40656400,20497800,20158600,"Drama, Sci-Fi, Thriller",0,5.3,PG-13,122
+137,"The Disaster Artist",29820600,21120600,8700000,"Biography, Comedy, Drama",2017,7.4,R,137
+142,CHIPS,26800200,18600200,8200000,"Action, Comedy, Crime",2017,6,R,142
+149,"Father Figures",25601200,17501200,8100000,"Comedy, Drama, Sport",2017,5.5,R,149
+167,Unforgettable,17768000,11368000,6400000,"Drama, Thriller",0,5.1,R,167
+176,"The Space Between Us",14793400,7885290,6908090,"Drama, Romance, Sci-Fi",0,6.4,PG-13,176
+177,"Megan Leavey",14510500,13406900,1103610,"Biography, Drama, War",2017,7.1,PG-13,177
+197,Marshall,10116800,10051700,65157,"Biography, Crime, Drama",2017,7.2,PG-13,197
+216,"The Man Who Invented Christmas",8096010,5676490,2419520,"Biography, Comedy, Drama",2017,7,PG,216
+224,"Goodbye Christopher Robin",7401950,1735250,5666700,"Biography, Drama",2017,7.1,PG,224
+252,Unlocked,4699120,NULL,4699120,"Action, Drama, Mystery",0,6.2,R,252
+269,2:22,3945730,422,3945310,"Drama, Sci-Fi, Thriller",2017,5.8,PG-13,269
+285,"Good Time",3283370,2026500,1256870,"Crime, Drama, Thriller",2017,7.3,R,285
+289,"Ingrid Goes West",3146830,3024310,122523,"Comedy, Drama",2017,6.6,R,289
+322,"A Ghost Story",1951680,1596370,355312,"Drama, Fantasy, Romance",2017,6.8,R,322
+325,"Last Flag Flying",1869040,965481,903556,"Comedy, Drama, War",2017,6.9,R,325
+437,"The Vault",346729,5728,341001,"Crime, Horror, Mystery",2017,4.8,"Not Rated",437
+470,9/11,200229,170000,30229,"Action, Crime, Thriller",2017,4.1,R,470
+1,"Avengers: Infinity War",2048360000,678815000,1369540000,"Action, Adventure, Sci-Fi",2018,8.5,PG-13,1
+2,"Black Panther",1346910000,700060000,646854000,"Action, Adventure, Sci-Fi",2018,7.3,PG-13,2
+3,"Jurassic World: Fallen Kingdom",1308470000,417720000,890748000,"Action, Adventure, Sci-Fi",2018,6.2,PG-13,3
+6,"Bohemian Rhapsody",903655000,216428000,687227000,"Biography, Drama, Music",2018,8,PG-13,6
+7,Venom,856085000,213516000,642570000,"Action, Sci-Fi, Thriller",2018,6.7,PG-13,7
+9,"Deadpool 2",734547000,318491000,416055000,"Action, Adventure, Comedy",2018,7.7,R,9
+10,"Fantastic Beasts: The Crimes of Grindelwald",653756000,159556000,494200000,"Adventure, Family, Fantasy",2018,6.6,PG-13,10
+11,"Ant-Man and the Wasp",622674000,216649000,406025000,"Action, Adventure, Comedy",2018,7.1,PG-13,11
+12,"Ready Player One",582890000,137690000,445200000,"Action, Adventure, Sci-Fi",2018,7.5,PG-13,12
+15,"The Meg",530244000,145444000,384800000,"Action, Horror, Sci-Fi",2018,5.7,PG-13,15
+20,"A Star Is Born",434889000,215289000,219600000,"Drama, Music, Romance",2018,7.7,R,20
+22,"Mamma Mia! Here We Go Again",395045000,120635000,274410000,"Comedy, Musical, Romance",2018,6.7,PG-13,22
+23,"Solo: A Star Wars Story",392925000,213768000,179157000,"Action, Adventure, Sci-Fi",2018,6.9,PG-13,23
+24,"Spider-Man: Into the Spider-Verse",375541000,190241000,185300000,"Animation, Action, Adventure",2018,8.4,PG,24
+25,"Fifty Shades Freed",371985000,100408000,271577000,"Drama, Romance, Thriller",2018,4.5,R,25
+30,"A Quiet Place",340939000,188024000,152915000,"Drama, Horror, Sci-Fi",2018,7.5,PG-13,30
+35,"Maze Runner: The Death Cure",288175000,58032400,230143000,"Action, Adventure, Sci-Fi",2018,6.2,PG-13,35
+36,"Tomb Raider",274651000,58250800,216400000,"Action, Adventure, Fantasy",2018,6.3,PG-13,36
+37,Halloween,255485000,159342000,96143200,"Horror, Thriller",0,6.6,R,37
+46,"Insidious: The Last Key",167886000,67745300,100140000,"Horror, Mystery, Thriller",2018,5.7,PG-13,46
+56,"Game Night",117679000,69179100,48500000,"Action, Comedy, Crime",0,6.9,R,56
+64,"A Simple Favor",97644600,53548600,44096000,"Comedy, Crime, Drama",2018,6.8,R,64
+66,"Blumhouse's Truth or Dare",95330500,41411000,53919500,"Horror, Thriller",0,5.1,PG-13,66
+68,Blockers,94017300,60311500,33705800,Comedy,2018,6.2,R,68
+76,"Robin Hood",85882400,30824600,55057800,"Action, Adventure, Thriller",2018,5.3,PG-13,76
+80,Hereditary,79336800,44069500,35267400,"Drama, Horror, Mystery",2018,7.3,R,80
+85,Searching,75462000,26021000,49441100,"Drama, Mystery, Thriller",0,7.7,PG-13,85
+87,"Second Act",72282200,39282200,33000000,"Comedy, Drama, Romance",2018,5.8,PG-13,87
+92,"Love, Simon",66316300,40826300,25489900,"Comedy, Drama, Romance",2018,7.6,PG-13,92
+97,Adrift,59945000,31445000,28500000,"Action, Adventure, Biography",0,6.6,PG-13,97
+103,"Breaking In",51411600,46840600,4571030,"Action, Crime, Drama",2018,5.4,PG-13,103
+118,"The Darkest Minds",41142400,12695700,28446700,"Action, Adventure, Drama",2018,5.7,PG-13,118
+128,"The Hate U Give",34934000,29719500,5214530,"Crime, Drama",2018,7.4,PG-13,128
+141,"Midnight Sun",27365500,9561060,17804400,"Drama, Romance",2018,6.6,PG-13,141
+155,"Proud Mary",21753400,20877000,876352,"Action, Crime, Drama",2018,4.9,R,155
+160,"If Beale Street Could Talk",20572700,14915800,5656920,"Drama, Romance",2018,7.2,R,160
+178,"Unfriended: Dark Web",16025000,8866740,7158240,"Horror, Mystery, Thriller",2018,5.9,R,178
+214,"Every Day",10421800,6102080,4319770,"Drama, Fantasy, Romance",2018,6.4,PG-13,214
+230,"Life Itself",7923600,4102650,3820950,"Drama, Romance",2018,6.7,R,230
+272,"American Animals",4080070,2856950,1223120,"Biography, Crime, Drama",2018,7,R,272
+288,"The House That Jack Built",3297010,170113,3126900,"Crime, Drama, Horror",2018,6.8,R,288
+300,"Billionaire Boys Club",2713960,1349,2712610,"Biography, Drama, Thriller",2018,5.6,R,300
+302,"The Little Mermaid",2610740,147175,2463570,"Adventure, Drama, Fantasy",2018,4.2,PG,302
+311,"Hearts Beat Loud",2417160,2386250,30914,"Comedy, Drama, Music",2018,6.9,PG-13,311
+326,"Under the Silver Lake",2053470,46083,2007390,"Comedy, Crime, Drama",2018,6.5,R,326
+344,"I Still See You",1620640,1359,1619280,"Fantasy, Thriller",2018,5.8,PG-13,344
+351,"The Miseducation of Cameron Post",1451730,904703,547026,Drama,2018,6.6,"Not Rated",351
+357,"Little Italy",1362540,990230,372306,"Comedy, Romance",2018,5.7,R,357
+395,Lizzie,844786,642157,202629,"Biography, Crime, Drama",2018,5.8,R,395
+443,"London Fields",487420,252676,234744,"Crime, Mystery, Thriller",2018,4.3,R,443
+587,"Support the Girls",139550,129124,10426,"Comedy, Drama",2018,6.4,R,587
+601,"Where Hands Touch",128269,67743,60526,"Drama, Romance, War",2018,6,PG-13,601
+823,"Summer '03",11746,11746,NULL,"Comedy, Drama, Romance",2018,5.4,"Not Rated",823
+870,"Stella's Last Weekend",4215,4215,NULL,"Comedy, Drama",2018,6.3,"Not Rated",870
+3,"Spider-Man: Far from Home",1131930000,390532000,741396000,"Action, Adventure, Sci-Fi",2019,7.6,PG-13,3
+6,Joker,1057190000,332494000,724700000,"Crime, Drama, Thriller",2019,8.7,R,6
+7,Aladdin,1050690000,355559000,695135000,"Adventure, Family, Fantasy",2019,7.1,PG,7
+9,"Fast & Furious Presents: Hobbs & Shaw",758910000,173810000,585100000,"Action, Adventure",2019,6.5,PG-13,9
+13,"Maleficent: Mistress of Evil",484696000,112523000,372173000,"Adventure, Family, Fantasy",2019,7,PG,13
+14,"It Chapter Two",472093000,211593000,260500000,"Drama, Fantasy, Horror",2019,6.7,R,14
+19,"Alita: Battle Angel",404853000,85710200,319142000,"Action, Adventure, Sci-Fi",2019,7.4,PG-13,19
+20,"Godzilla: King of the Monsters",385900000,110500000,275400000,"Action, Adventure, Fantasy",2019,6.1,PG-13,20
+21,"Once Upon a Time... in Hollywood",371980000,141028000,230952000,"Comedy, Drama",2019,7.8,R,21
+22,Shazam!,364572000,140372000,224200000,"Action, Adventure, Comedy",2019,7.1,PG-13,22
+23,Dumbo,353285000,114766000,238518000,"Adventure, Family, Fantasy",2019,6.3,PG,23
+24,"John Wick: Chapter 3 - Parabellum",326699000,171016000,155684000,"Action, Crime, Thriller",2019,7.5,R,24
+25,"Terminator: Dark Fate",258593000,61918400,196675000,"Action, Adventure, Sci-Fi",2019,6.5,R,25
+27,"Men in Black: International",253891000,80001800,173889000,"Action, Adventure, Comedy",2019,5.6,PG-13,27
+28,"Dark Phoenix",252443000,65846000,186597000,"Action, Adventure, Sci-Fi",2019,5.8,PG-13,28
+29,Glass,246986000,111035000,135951000,"Drama, Sci-Fi, Thriller",2019,6.7,PG-13,29
+31,"Annabelle Comes Home",228553000,74152600,154400000,"Horror, Mystery, Thriller",2019,5.9,R,31
+33,Rocketman,195179000,96368200,98811100,"Biography, Drama, Music",2019,7.4,R,33
+39,"Gemini Man",173174000,48546800,124628000,"Action, Drama, Sci-Fi",2019,5.7,PG-13,39
+40,"Ford v Ferrari",170765000,93501400,77263300,"Action, Biography, Drama",2019,8.3,PG-13,40
+41,"Escape Room",155712000,57005600,98706500,"Action, Adventure, Horror",2019,6.3,PG-13,41
+46,"Angel Has Fallen",133365000,69030400,64335000,"Action, Thriller",2019,6.4,R,46
+47,"Knives Out",129736000,68419300,61316800,"Comedy, Crime, Drama",2019,8.1,PG-13,47
+48,"Ad Astra",127175000,50187600,76987600,"Adventure, Drama, Mystery",2019,6.8,PG-13,48
+56,"Zombieland: Double Tap",119455000,72527300,46927800,"Action, Comedy, Horror",2019,7.2,R,56
+58,"Pet Sematary",112400000,54724700,57675200,"Horror, Mystery, Thriller",2019,5.8,R,58
+59,Midway,111306000,54155900,57149700,"Action, Drama, History",2019,6.9,PG-13,59
+66,"Rambo: Last Blood",87041800,44819400,42222400,"Action, Adventure, Thriller",2019,6.3,R,66
+69,"Cold Pursuit",76419800,32138900,44280900,"Action, Crime, Drama",2019,6.2,R,69
+70,"A Dog's Way Home",76087600,42004300,34083200,"Adventure, Drama, Family",2019,6.7,PG,70
+74,"Doctor Sleep",70209600,31309600,38900000,"Drama, Fantasy, Horror",2019,7.6,R,74
+83,"Long Shot",53468300,30316300,23152000,"Comedy, Romance",2019,6.9,R,83
+84,"Jumanji: The Next Level",52857000,NULL,52857000,"Action, Adventure, Comedy",2019,7,PG-13,84
+90,"A Beautiful Day in the Neighborhood",45366000,45366000,NULL,"Biography, Drama",2019,7.9,PG,90
+91,"Child's Play",44902200,29208400,15693800,Horror,2019,5.9,R,91
+92,Hellboy,44664700,21903700,22760900,"Action, Adventure, Fantasy",2019,5.2,R,92
+93,Midsommar,42251800,27426400,14825500,"Drama, Horror, Mystery",2019,7.2,R,93
+96,"Fighting with My Family",39058900,22958900,16100000,"Biography, Comedy, Drama",2019,7.1,PG-13,96
+99,"The Intruder",36599400,35419100,1180240,"Drama, Horror, Mystery",2019,5.5,PG-13,99
+100,"Pain and Glory",35646400,3606340,32040000,Drama,2019,7.7,R,100
+103,"The Art of Racing in the Rain",33766800,26395600,7371140,"Comedy, Drama, Romance",2019,7.5,PG,103
+105,Brightburn,32893400,17300400,15593000,"Drama, Horror, Mystery",2019,6.2,R,105
+107,Stuber,32390900,22370500,10020500,"Action, Comedy, Crime",2019,6.1,R,107
+108,"The Kid Who Would Be King",32141000,16790800,15350200,"Action, Adventure, Family",2019,6,PG,108
+109,Anna,30918700,7743790,23174900,"Action, Thriller",2019,6.6,R,109
+111,"21 Bridges",27699400,24969400,2730000,"Action, Crime, Drama",2019,6.6,R,111
+122,"Jojo Rabbit",22328700,19540400,2788300,"Comedy, Drama, War",2019,8.1,PG-13,122
+123,Shaft,21360200,21360200,NULL,"Action, Comedy, Crime",2019,6.4,R,123
+126,"The Peanut Butter Falcon",20771000,20449200,321839,"Adventure, Comedy, Drama",2019,7.7,PG-13,126
+140,Serenity,14387400,8547040,5840370,"Drama, Mystery, Thriller",2019,5.3,R,140
+141,"The Dead Don't Die",13963600,6563600,7400000,"Comedy, Fantasy, Horror",2019,5.5,R,141
+142,"Motherless Brooklyn",13930000,9229980,4700000,"Crime, Drama, Mystery",2019,7.1,R,142
+148,"The Lighthouse",11265000,10565000,700000,"Drama, Fantasy, Horror",2019,8.3,R,148
+151,"The Best of Enemies",10209800,10205600,4197,"Biography, Drama, History",2019,7,PG-13,151
+157,"The Aftermath",9215590,1618500,7597090,"Drama, Romance, War",2019,6.3,R,157
+158,"Captive State",8772810,5958320,2814500,"Drama, Sci-Fi, Thriller",2019,6,PG-13,158
+174,"Official Secrets",6863150,1988550,4874610,"Biography, Drama, Romance",2019,7.3,R,174
+191,"The Beach Bum",4554060,3502600,1051460,Comedy,2019,5.5,R,191
+222,"The Art of Self-Defense",2414270,2410910,3355,"Comedy, Crime, Drama",2019,6.7,R,222
+233,"The Souvenir",1719160,1036740,682420,"Drama, Mystery, Romance",2019,6.5,R,233
+240,"The Kid",1551520,1508590,42928,"Biography, Drama, Western",2019,5.9,R,240
